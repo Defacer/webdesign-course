@@ -1,0 +1,23 @@
+.box {
+	width: 720px;
+	border: 1px solid gray;
+	padding: 10px;
+	border-width: 1px 1px;
+	background: white;
+}
+
+.main {
+	overflow: hidden;
+	background: orange;
+}
+
+.content {
+	float: left;
+	width: 70%;
+	background: orange;
+
+.sidebar {
+	float: left;
+	width: 30%;
+	background: orange;
+}
